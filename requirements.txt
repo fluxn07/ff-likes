@@ -1,1 +1,11 @@
-pip install instagrapi python-dotenv
+Flask[async]
+requests
+aiohttp
+googleapis-common-protos
+pycryptodome
+protobuf
+Werkzeug
+cachetools
+waitress
+python-dotenv
+gunicorn
